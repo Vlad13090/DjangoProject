@@ -1,1 +1,1 @@
-# DjangoProject
+Учебный сайт на Django
